@@ -1,5 +1,4 @@
 ﻿
-Browser("Advantage Shopping").Page("Google").Sync @@ hightlight id_;_Browser("Advantage Shopping").Page("Google")_;_script infofile_;_ZIP::ssf21.xml_;_
 Browser("Advantage Shopping").Navigate "http://advantageonlineshopping.com/" @@ hightlight id_;_197788_;_script infofile_;_ZIP::ssf22.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("SpeakersCategory")_;_script infofile_;_ZIP::ssf23.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("buy_now").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebButton("buy now")_;_script infofile_;_ZIP::ssf24.xml_;_
